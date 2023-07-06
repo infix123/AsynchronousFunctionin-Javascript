@@ -1,0 +1,50 @@
+[
+	{
+		"flight": "TR34533",
+		"from": "Paris",
+		"status": "On Time",
+		"aircraft": "Boeing 737",
+		"nbPassengers": 678,
+		"pilots": ["John Smith", "Anna Simpson"]
+	},
+	{
+		"flight": "TR55333",
+		"from": "Frankfurt",
+		"status": "Delayed",
+		"aircraft": "Airbus 737",
+		"nbPassengers": 640,
+		"pilots": ["Samantha Smith", "Henry FordSimpson"]
+	},
+	{
+		"flight": "KK90333",
+		"from": "Bermuda",
+		"status": "Cancelled",
+		"aircraft": "Airbus 235",
+		"nbPassengers": 180,
+		"pilots": ["Jane Sparrow", "James copperfield"]
+	},
+	{
+		"flight": "PT78473",
+		"from": "Ontario",
+		"status": "On Time",
+		"aircraft": "Boeing 737",
+		"nbPassengers": 240,
+		"pilots": ["Brown Notthingham", "Harry Kane"]
+	},
+	{
+		"flight": "LL62392",
+		"from": "Chicago",
+		"status": "On Time",
+		"aircraft": "Airbus 924",
+		"nbPassengers": 350,
+		"pilots": ["Williams Hetring", "Copperfield Bloom"]
+	},
+	{
+		"flight": "JK68333",
+		"from": "Cacun",
+		"status": "Delayed",
+		"aircraft": "Airbus 737",
+		"nbPassengers": 170,
+		"pilots": ["Samantha Smith", "James Bloomfield"]
+	}
+]

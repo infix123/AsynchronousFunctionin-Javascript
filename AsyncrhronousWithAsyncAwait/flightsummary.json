@@ -1,0 +1,14 @@
+[
+	{
+		"flight": "TR34533",
+		"from": "Paris"
+	},
+	{
+		"flight": "TR55333",
+		"from": "Frankfurt"
+	},
+	{ "flight": "KK90333", "from": "Bermuda" },
+	{ "flight": "PT78473", "from": "Ontario" },
+	{ "flight": "LL62392", "from": "Chicago" },
+	{ "flight": "JK68333", "from": "Cacun" }
+]
